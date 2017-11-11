@@ -1,0 +1,16 @@
+{
+  "typeList": [
+    {
+      "type": "Museum"
+    },
+    {
+      "type": "Square"
+    },
+    {
+      "type": "Shopping center"
+    },
+    {
+      "type": "Business office"
+    }
+  ]
+}
